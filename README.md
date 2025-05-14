@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=20&pause=1000&center=true&width=435&lines=Welcome+to+Greg's+Dev+Zone!;Level+99+Coder+%F0%9F%8E%AF;AI+%26+Defence+Tech+Specialist" alt="Typing SVG" />
 </h1>
 
-<!-- Avatar and Bio -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/gregleejy" width="120" style="border-radius: 50%" />
-</p>
-
 <p align="center">
   🧠 AI & Defence Tech | 💥 Footballer | 🌍 Building for Impact
 </p>
