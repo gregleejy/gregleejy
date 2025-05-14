@@ -5,7 +5,7 @@
 
 <!-- Avatar and Bio -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="120" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/gregleejy?v=4" width="120" style="border-radius: 50%" />
 </p>
 
 <p align="center">
