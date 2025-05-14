@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🧠 AI & Defence Tech | 💥 Footballer | 🌍 Building for Impact
+  🧠 AI & Defence Tech | 🌍 Building for Impact
 </p>
 
 ---
