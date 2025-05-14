@@ -38,6 +38,6 @@
 
 ---
 
-## 🎮 Level Progress
+## 🎮 Progress
 
-🧙 AI & Machine Learning        [+ Level 9]
+🧙 AI & Machine Learning
