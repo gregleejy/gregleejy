@@ -12,7 +12,7 @@
 ## 🧩 Current Quest Log
 
 - 🧠 Training random models
-- 🛠️ Writing tech explainers at AI Helpdesk
+- 🛠️ Writing tech explainers at AI Leesource
 - 📚 Studying CS at SMU, majoring in AI
 
 ---
