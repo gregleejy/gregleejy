@@ -13,6 +13,7 @@
 
 - 🧠 Training random models
 - 🛠️ Writing tech explainers at AI Leesource
+- 🎮 Developing impactful games
 - 📚 Studying CS at SMU, majoring in AI
 
 ---
