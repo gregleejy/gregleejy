@@ -12,7 +12,7 @@
 ## 🧩 Current Quest Log
 
 - 🧠 Training random models
-- 🛠️ Writing tech explainers at AI Leesource
+- 🛠️ Expanding my knowledge on AI and ML concepts
 - 🎮 Developing impactful games
 - 📚 Studying CS at SMU, majoring in AI
 
