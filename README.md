@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  🧠 AI & Defence Tech | 🌍 Building for Impact
+  🧠 AI ML Enthusiast | 🌍 Building for Impact
 </p>
 
 ---
@@ -12,9 +12,9 @@
 ## 🧩 Current Quest Log
 
 - 🧠 Training random models
-- 🛠️ Expanding my knowledge on AI and ML concepts
+- 🛠️ Knowledge on AI and ML concepts
 - 🎮 Developing impactful games
-- 📚 Studying CS at SMU, majoring in AI
+- 📚 Studying CS at SMU, AI major
 
 ---
 
@@ -40,4 +40,4 @@
 
 ## 🎮 Progress
 
-🧙 AI & Machine Learning
+🧙 Thinking about my next project
