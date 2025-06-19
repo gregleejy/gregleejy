@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gregleejy&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gregleejy&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
