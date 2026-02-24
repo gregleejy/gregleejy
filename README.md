@@ -18,18 +18,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gregleejy&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gregleejy&theme=onestar&row=1&column=6" />
-</p>
-
----
-
 ## 🛡️ Skill Tree
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
