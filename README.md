@@ -14,7 +14,6 @@
 - 🧠 Training random models
 - 🛠️ Knowledge on AI and ML concepts
 - 🎮 Developing impactful games
-- 📚 Studying CS at SMU, AI major
 
 ---
 
